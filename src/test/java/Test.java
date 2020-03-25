@@ -1,7 +1,5 @@
 import org.junit.Assert;
-
 import java.math.BigInteger;
-import java.util.Arrays;
 
 public class Test {
     @org.junit.Test

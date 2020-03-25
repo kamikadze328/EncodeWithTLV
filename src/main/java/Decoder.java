@@ -1,7 +1,6 @@
 import java.math.BigInteger;
 import java.util.Arrays;
 
-
 public class Decoder {
 
     public BigInteger decodeLength(BigInteger binaryLength) {
